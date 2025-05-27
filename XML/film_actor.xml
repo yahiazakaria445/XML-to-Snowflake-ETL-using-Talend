@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<films>
+  <film film_id="1" last_update="15-02-2006">
+    <title>ACADEMY DINOSAUR</title>
+    <description>A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies</description>
+    <release_year>01-01-2006</release_year>
+    <language_id>1</language_id>
+    <original_language_id/>
+    <rental_duration>6</rental_duration>
+    <rental_rate>0.99</rental_rate>
+    <length>86</length>
+    <replacement_cost>20.99</replacement_cost>
+    <rating>PG</rating>
+    <special_features>Deleted Scenes,Behind the Scenes</special_features>
+    <actors>
+      <actor actor_id="1" actor_last_update="15-02-2006">
+        <actor_first_name>PENELOPE</actor_first_name>
+        <actor_last_name>GUINESS</actor_last_name>
+      </actor>
+      <actor actor_id="10" actor_last_update="15-02-2006">
+        <actor_first_name>CHRISTIAN</actor_first_name>
+        <actor_last_name>GABLE</actor_last_name>
+      </actor>
+      <actor actor_id="20" actor_last_update="15-02-2006">
+        <actor_first_name>LUCILLE</actor_first_name>
+        <actor_last_name>TRACY</actor_last_name>
+      </actor>
+      <actor actor_id="30" actor_last_update="15-02-2006">
+        <actor_first_name>SANDRA</actor_first_name>
+        <actor_last_name>PECK</actor_last_name>
+      </actor>
+      <actor actor_id="40" actor_last_update="15-02-2006">
+        <actor_first_name>JOHNNY</actor_first_name>
+        <actor_last_name>CAGE</actor_last_name>
+      </actor>
+      <actor actor_id="53" actor_last_update="15-02-2006">
+        <actor_first_name>MENA</actor_first_name>
+        <actor_last_name>TEMPLE</actor_last_name>
+      </actor>
+      <actor actor_id="108" actor_last_update="15-02-2006">
+        <actor_first_name>WARREN</actor_first_name>
+        <actor_last_name>NOLTE</actor_last_name>
+      </actor>
+      <actor actor_id="162" actor_last_update="15-02-2006">
+        <actor_first_name>OPRAH</actor_first_name>
+        <actor_last_name>KILMER</actor_last_name>
+      </actor>
+      <actor actor_id="188" actor_last_update="15-02-2006">
+        <actor_first_name>ROCK</actor_first_name>
+        <actor_last_name>DUKAKIS</actor_last_name>
+      </actor>
+      <actor actor_id="198" actor_last_update="15-02-2006">
+        <actor_first_name>MARY</actor_first_name>
+        <actor_last_name>KEITEL</actor_last_name>
+      </actor>
+    </actors>
+  </film>
+  <film film_id="128" last_update="15-02-2006">
+    <title>CATCH AMISTAD</title>
+    <description>A Boring Reflection of a Lumberjack And a Feminist who must Discover a Woman in Nigeria</description>
+    <release_year>01-01-2006</release_year>
+    <language_id>1</language_id>
+    <original_language_id/>
+    <rental_duration>7</rental_duration>
+    <rental_rate>0.99</rental_rate>
+    <length>183</length>
+    <replacement_cost>10.99</replacement_cost>
+    <rating>G</rating>
+    <special_features>Trailers,Behind the Scenes</special_features>
+    <actors>
+      <actor actor_id="40" actor_last_update="15-02-2006">
+        <actor_first_name>JOHNNY</actor_first_name>
+        <actor_last_name>CAGE</actor_last_name>
+      </actor>
+      <actor actor_id="58" actor_last_update="15-02-2006">
+        <actor_first_name>CHRISTIAN</actor_first_name>
+        <actor_last_name>AKROYD</actor_last_name>
+      </actor>
+      <actor actor_id="88" actor_last_update="15-02-2006">
+        <actor_first_name>KENNETH</actor_first_name>
+        <actor_last_name>PESCI</actor_last_name>
+      </actor>
+      <actor actor_id="116" actor_last_update="15-02-2006">
+        <actor_first_name>DAN</actor_first_name>
+        <actor_last_name>STREEP</actor_last_name>
+      </actor>
+      <actor actor_id="155" actor_last_update="15-02-2006">
+        <actor_first_name>IAN</actor_first_name>
+        <actor_last_name>TANDY</actor_last_name>
+      </actor>
+    </actors>
+  </film>
+  <film film_id="5" last_update="15-02-2006">
+    <title>AFRICAN EGG</title>
+    <description>A Fast-Paced Documentary of a Pastry Chef And a Dentist who must Pursue a Forensic Psychologist in The Gulf of Mexico</description>
+    <release_year>01-01-2006</release_year>
+    <language_id>1</language_id>
+    <original_language_id/>
+    <rental_duration>6</rental_duration>
+    <rental_rate>2.99</rental_rate>
+    <length>130</length>
+    <replacement_cost>22.99</replacement_cost>
+    <rating>G</rating>
+    <special_features>Deleted Scenes</special_features>
+    <actors>
+      <actor actor_id="51" actor_last_update="15-02-2006">
+        <actor_first_name>GARY</actor_first_name>
+        <actor_last_name>PHOENIX</actor_last_name>
+      </actor>
+      <actor actor_id="59" actor_last_update="15-02-2006">
+        <actor_first_name>DUSTIN</actor_first_name>
+        <actor_last_name>TAUTOU</actor_last_name>
+      </actor>
+      <actor actor_id="103" actor_last_update="15-02-2006">
+        <actor_first_name>MATTHEW</actor_first_name>
+        <actor_last_name>LEIGH</actor_last_name>
+      </actor>
+      <actor actor_id="181" actor_last_update="15-02-2006">
+        <actor_first_name>MATTHEW</actor_first_name>
+        <actor_last_name>CARREY</actor_last_name>
+      </actor>
+      <actor actor_id="200" actor_last_update="15-02-2006">
+        <actor_first_name>THORA</actor_first_name>
+        <actor_last_name>TEMPLE</actor_last_name>
+      </actor>
+    </actors>
+  </film>
+</films>
